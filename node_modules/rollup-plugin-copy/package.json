@@ -1,0 +1,34 @@
+{
+    "type": "module",
+    "name": "rollup-plugin-copy",
+    "description": "Copy files and folders using Rollup",
+    "version": "1.0.0",
+    "author": "Envaysoft <envaysoft@gmail.com>",
+    "repository": "https://github.com/envaysoft-github/rollup-plugin-copy",
+    "main": "src/index.js",
+    "dependencies": {
+        "colorette": "^2.0.20",
+        "fs-extra": "^11.2.0",
+        "globby": "^14.0.2",
+        "is-plain-object": "^5.0.0",
+        "path": "^0.12.7",
+        "util": "^0.12.5"
+    },
+    "keywords": [
+        "rollup",
+        "rollup-plugin",
+        "copy",
+        "cp",
+        "asset",
+        "assets",
+        "file",
+        "files",
+        "folder",
+        "folders",
+        "glob"
+    ],
+    "engines": {
+        "node": ">=8.3"
+    },
+    "license": "MIT"
+}

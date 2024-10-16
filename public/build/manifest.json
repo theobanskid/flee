@@ -26,11 +26,11 @@
       "_vue-DkJ1Kgzj-v4.5.0.js"
     ]
   },
-  "_LandscapeProducts-o2ckRHG6-v4.5.0.js": {
-    "file": "assets/LandscapeProducts-o2ckRHG6-v4.5.0.js",
+  "_LandscapeProducts-U8nV2Rgo-v4.5.0.js": {
+    "file": "assets/LandscapeProducts-U8nV2Rgo-v4.5.0.js",
     "name": "LandscapeProducts",
     "imports": [
-      "_swiper-BkenO_dh-v4.5.0.js",
+      "_swiper-BxwyBx_L-v4.5.0.js",
       "_ProductCard-fXPfQTF2-v4.5.0.js"
     ]
   },
@@ -92,12 +92,12 @@
       "_@melloware-BTYRaMki-v4.5.0.js"
     ]
   },
-  "_alpinejs-BVmYX9MG-v4.5.0.js": {
-    "file": "assets/alpinejs-BVmYX9MG-v4.5.0.js",
+  "_alpinejs-BGcqaHQq-v4.5.0.js": {
+    "file": "assets/alpinejs-BGcqaHQq-v4.5.0.js",
     "name": "alpinejs"
   },
-  "_axios-DsPaXkF5-v4.5.0.js": {
-    "file": "assets/axios-DsPaXkF5-v4.5.0.js",
+  "_axios-CCb-kr4I-v4.5.0.js": {
+    "file": "assets/axios-CCb-kr4I-v4.5.0.js",
     "name": "axios"
   },
   "_blueimp-md5-CGBD6urz-v4.5.0.js": {
@@ -114,8 +114,8 @@
       "_@popperjs-DMMwm23M-v4.5.0.js"
     ]
   },
-  "_chart.js-B787hJUy-v4.5.0.js": {
-    "file": "assets/chart.js-B787hJUy-v4.5.0.js",
+  "_chart.js-BxYPeV85-v4.5.0.js": {
+    "file": "assets/chart.js-BxYPeV85-v4.5.0.js",
     "name": "chart.js",
     "imports": [
       "_@kurkle-BZxJdD1U-v4.5.0.js"
@@ -128,19 +128,19 @@
       "_@popperjs-DMMwm23M-v4.5.0.js"
     ]
   },
-  "_datatables.net-DZXX4CZW-v4.5.0.js": {
-    "file": "assets/datatables.net-DZXX4CZW-v4.5.0.js",
+  "_datatables.net-BwztunpE-v4.5.0.js": {
+    "file": "assets/datatables.net-BwztunpE-v4.5.0.js",
     "name": "datatables.net",
     "imports": [
       "_jquery-BDaHQXZF-v4.5.0.js"
     ]
   },
-  "_datatables.net-bs-DOO3UJzZ-v4.5.0.js": {
-    "file": "assets/datatables.net-bs-DOO3UJzZ-v4.5.0.js",
+  "_datatables.net-bs-BoR4tY6Z-v4.5.0.js": {
+    "file": "assets/datatables.net-bs-BoR4tY6Z-v4.5.0.js",
     "name": "datatables.net-bs",
     "imports": [
       "_jquery-BDaHQXZF-v4.5.0.js",
-      "_datatables.net-DZXX4CZW-v4.5.0.js"
+      "_datatables.net-BwztunpE-v4.5.0.js"
     ]
   },
   "_drift-zoom-KJ3HkKpL-v4.5.0.js": {
@@ -220,21 +220,20 @@
       "_lodash-es-BnWRvFhx-v4.5.0.js"
     ]
   },
-  "_simplebar-vue-DfYPHKB5-v4.5.0.js": {
-    "file": "assets/simplebar-vue-DfYPHKB5-v4.5.0.js",
+  "_simplebar-vue-DXjHBjk7-v4.5.0.js": {
+    "file": "assets/simplebar-vue-DXjHBjk7-v4.5.0.js",
     "name": "simplebar-vue",
     "imports": [
       "_simplebar-core-DYbHMHSm-v4.5.0.js",
-      "_vue-demi-NUwgaeZN-v4.5.0.js",
       "_vue-DkJ1Kgzj-v4.5.0.js"
     ]
   },
-  "_sortablejs-C0-Qcoum-v4.5.0.js": {
-    "file": "assets/sortablejs-C0-Qcoum-v4.5.0.js",
+  "_sortablejs-Cw1ESr5Y-v4.5.0.js": {
+    "file": "assets/sortablejs-Cw1ESr5Y-v4.5.0.js",
     "name": "sortablejs"
   },
-  "_swiper-BkenO_dh-v4.5.0.js": {
-    "file": "assets/swiper-BkenO_dh-v4.5.0.js",
+  "_swiper-BxwyBx_L-v4.5.0.js": {
+    "file": "assets/swiper-BxwyBx_L-v4.5.0.js",
     "name": "swiper"
   },
   "_tinymce-DH070BuV-v4.5.0.js": {
@@ -254,13 +253,6 @@
   "_vue-DkJ1Kgzj-v4.5.0.js": {
     "file": "assets/vue-DkJ1Kgzj-v4.5.0.js",
     "name": "vue"
-  },
-  "_vue-demi-NUwgaeZN-v4.5.0.js": {
-    "file": "assets/vue-demi-NUwgaeZN-v4.5.0.js",
-    "name": "vue-demi",
-    "imports": [
-      "_vue-DkJ1Kgzj-v4.5.0.js"
-    ]
   },
   "_vue-flatpickr-component-w2ZiUwnG-v4.5.0.js": {
     "file": "assets/vue-flatpickr-component-w2ZiUwnG-v4.5.0.js",
@@ -320,7 +312,7 @@
     "src": "modules/Admin/Resources/assets/images/search-01.png"
   },
   "modules/Admin/Resources/assets/js/app.js": {
-    "file": "assets/app-CZ6OGoj--v4.5.0.js",
+    "file": "assets/app-C2KriAOH-v4.5.0.js",
     "name": "app",
     "src": "modules/Admin/Resources/assets/js/app.js",
     "isEntry": true,
@@ -328,31 +320,31 @@
       "_flatpickr-DAYNlSYt-v4.5.0.js",
       "_mousetrap-DJB3htm2-v4.5.0.js",
       "_nprogress-RzlqWGKJ-v4.5.0.js",
-      "_datatables.net-bs-DOO3UJzZ-v4.5.0.js",
-      "_datatables.net-DZXX4CZW-v4.5.0.js",
+      "_datatables.net-bs-BoR4tY6Z-v4.5.0.js",
+      "_datatables.net-BwztunpE-v4.5.0.js",
       "_functions-CqgSXQpZ-v4.5.0.js",
       "_@popperjs-DMMwm23M-v4.5.0.js",
       "_jquery-BDaHQXZF-v4.5.0.js"
     ]
   },
   "modules/Admin/Resources/assets/js/dashboard.js": {
-    "file": "assets/dashboard-C9jbhFRE-v4.5.0.js",
+    "file": "assets/dashboard-D3kJTcpE-v4.5.0.js",
     "name": "dashboard",
     "src": "modules/Admin/Resources/assets/js/dashboard.js",
     "isEntry": true,
     "imports": [
-      "_chart.js-B787hJUy-v4.5.0.js",
+      "_chart.js-BxYPeV85-v4.5.0.js",
       "_@kurkle-BZxJdD1U-v4.5.0.js"
     ]
   },
   "modules/Admin/Resources/assets/js/main.js": {
-    "file": "assets/main-Db_iEAex-v4.5.0.js",
+    "file": "assets/main-aLaiFuPF-v4.5.0.js",
     "name": "main",
     "src": "modules/Admin/Resources/assets/js/main.js",
     "isEntry": true,
     "imports": [
       "_lodash-DrKONiQm-v4.5.0.js",
-      "_sortablejs-C0-Qcoum-v4.5.0.js",
+      "_sortablejs-Cw1ESr5Y-v4.5.0.js",
       "_@popperjs-DMMwm23M-v4.5.0.js"
     ]
   },
@@ -378,12 +370,12 @@
     "isEntry": true
   },
   "modules/Blog/Resources/assets/admin/posts/js/create.js": {
-    "file": "assets/create-C0xZ1qSO-v4.5.0.js",
+    "file": "assets/create-CW6YZEAS-v4.5.0.js",
     "name": "create",
     "src": "modules/Blog/Resources/assets/admin/posts/js/create.js",
     "isEntry": true,
     "imports": [
-      "_alpinejs-BVmYX9MG-v4.5.0.js",
+      "_alpinejs-BGcqaHQq-v4.5.0.js",
       "_wysiwyg-DCJeIrPg-v4.5.0.js",
       "_Errors-C6J1uyx1-v4.5.0.js",
       "_NProgress-CXAKYsrL-v4.5.0.js",
@@ -394,12 +386,12 @@
     ]
   },
   "modules/Blog/Resources/assets/admin/posts/js/edit.js": {
-    "file": "assets/edit-Ck0y6MnJ-v4.5.0.js",
+    "file": "assets/edit-DbSU_F7l-v4.5.0.js",
     "name": "edit",
     "src": "modules/Blog/Resources/assets/admin/posts/js/edit.js",
     "isEntry": true,
     "imports": [
-      "_alpinejs-BVmYX9MG-v4.5.0.js",
+      "_alpinejs-BGcqaHQq-v4.5.0.js",
       "_wysiwyg-DCJeIrPg-v4.5.0.js",
       "_Errors-C6J1uyx1-v4.5.0.js",
       "_NProgress-CXAKYsrL-v4.5.0.js",
@@ -642,15 +634,15 @@
     "src": "modules/User/Resources/assets/admin/images/top-mask.png"
   },
   "modules/Storefront/Resources/assets/public/js/app.js": {
-    "file": "assets/app-B7buymW7-v4.5.0.js",
+    "file": "assets/app-CwwSUFac-v4.5.0.js",
     "name": "app",
     "src": "modules/Storefront/Resources/assets/public/js/app.js",
     "isEntry": true,
     "imports": [
-      "_alpinejs-BVmYX9MG-v4.5.0.js",
+      "_alpinejs-BGcqaHQq-v4.5.0.js",
       "_jquery-BDaHQXZF-v4.5.0.js",
       "_bootstrap-oJy5IAXb-v4.5.0.js",
-      "_axios-DsPaXkF5-v4.5.0.js",
+      "_axios-CCb-kr4I-v4.5.0.js",
       "_toastify-js-Ck_sc_9Z-v4.5.0.js",
       "_@popperjs-DMMwm23M-v4.5.0.js"
     ]
@@ -697,23 +689,23 @@
     ]
   },
   "modules/Storefront/Resources/assets/public/js/pages/auth/main.js": {
-    "file": "assets/main-xKuC2skR-v4.5.0.js",
+    "file": "assets/main-R-oWbYCE-v4.5.0.js",
     "name": "main",
     "src": "modules/Storefront/Resources/assets/public/js/pages/auth/main.js",
     "isEntry": true,
     "imports": [
-      "_alpinejs-BVmYX9MG-v4.5.0.js"
+      "_alpinejs-BGcqaHQq-v4.5.0.js"
     ]
   },
   "modules/Storefront/Resources/assets/public/js/pages/cart/main.js": {
-    "file": "assets/main-DR2NSmBb-v4.5.0.js",
+    "file": "assets/main-bFO88zEm-v4.5.0.js",
     "name": "main",
     "src": "modules/Storefront/Resources/assets/public/js/pages/cart/main.js",
     "isEntry": true,
     "imports": [
       "_CartItem-HYQyFSGT-v4.5.0.js",
-      "_LandscapeProducts-o2ckRHG6-v4.5.0.js",
-      "_swiper-BkenO_dh-v4.5.0.js",
+      "_LandscapeProducts-U8nV2Rgo-v4.5.0.js",
+      "_swiper-BxwyBx_L-v4.5.0.js",
       "_ProductCard-fXPfQTF2-v4.5.0.js",
       "_ProductMixin-B338t0Tz-v4.5.0.js",
       "_ProductRating-B-YFAG_Q-v4.5.0.js"
@@ -730,25 +722,25 @@
     ]
   },
   "modules/Storefront/Resources/assets/public/js/pages/compare/main.js": {
-    "file": "assets/main-C1PUVP8Z-v4.5.0.js",
+    "file": "assets/main-TQ-eVpko-v4.5.0.js",
     "name": "main",
     "src": "modules/Storefront/Resources/assets/public/js/pages/compare/main.js",
     "isEntry": true,
     "imports": [
-      "_swiper-BkenO_dh-v4.5.0.js",
+      "_swiper-BxwyBx_L-v4.5.0.js",
       "_ProductCard-fXPfQTF2-v4.5.0.js",
       "_ProductRating-B-YFAG_Q-v4.5.0.js",
-      "_LandscapeProducts-o2ckRHG6-v4.5.0.js",
+      "_LandscapeProducts-U8nV2Rgo-v4.5.0.js",
       "_ProductMixin-B338t0Tz-v4.5.0.js"
     ]
   },
   "modules/Storefront/Resources/assets/public/js/pages/home/main.js": {
-    "file": "assets/main-3-1U8NH_-v4.5.0.js",
+    "file": "assets/main-D1-Bnf1K-v4.5.0.js",
     "name": "main",
     "src": "modules/Storefront/Resources/assets/public/js/pages/home/main.js",
     "isEntry": true,
     "imports": [
-      "_swiper-BkenO_dh-v4.5.0.js",
+      "_swiper-BxwyBx_L-v4.5.0.js",
       "_ProductCard-fXPfQTF2-v4.5.0.js",
       "_countdown-C0DdbpYS-v4.5.0.js",
       "_ProductMixin-B338t0Tz-v4.5.0.js",
@@ -758,12 +750,12 @@
     ]
   },
   "modules/Storefront/Resources/assets/public/js/pages/products/index/main.js": {
-    "file": "assets/main-BqVlaDae-v4.5.0.js",
+    "file": "assets/main-BrHgYJGX-v4.5.0.js",
     "name": "main",
     "src": "modules/Storefront/Resources/assets/public/js/pages/products/index/main.js",
     "isEntry": true,
     "imports": [
-      "_swiper-BkenO_dh-v4.5.0.js",
+      "_swiper-BxwyBx_L-v4.5.0.js",
       "_nouislider--DU6hECO-v4.5.0.js",
       "_ProductCard-fXPfQTF2-v4.5.0.js",
       "_Pagination-DKj6Zlmg-v4.5.0.js",
@@ -772,12 +764,12 @@
     ]
   },
   "modules/Storefront/Resources/assets/public/js/pages/products/show/main.js": {
-    "file": "assets/main-HYzxVO8A-v4.5.0.js",
+    "file": "assets/main-BHAVsT3H-v4.5.0.js",
     "name": "main",
     "src": "modules/Storefront/Resources/assets/public/js/pages/products/show/main.js",
     "isEntry": true,
     "imports": [
-      "_swiper-BkenO_dh-v4.5.0.js",
+      "_swiper-BxwyBx_L-v4.5.0.js",
       "_blueimp-md5-CGBD6urz-v4.5.0.js",
       "_drift-zoom-KJ3HkKpL-v4.5.0.js",
       "_glightbox-E81OpMix-v4.5.0.js",
@@ -926,14 +918,14 @@
     "isEntry": true
   },
   "modules/Translation/Resources/assets/admin/js/main.js": {
-    "file": "assets/main-BVWsvBE6-v4.5.0.js",
+    "file": "assets/main-CdzoHmsX-v4.5.0.js",
     "name": "main",
     "src": "modules/Translation/Resources/assets/admin/js/main.js",
     "isEntry": true,
     "imports": [
-      "_datatables.net-bs-DOO3UJzZ-v4.5.0.js",
+      "_datatables.net-bs-BoR4tY6Z-v4.5.0.js",
       "_x-editable-B8-u9ahO-v4.5.0.js",
-      "_datatables.net-DZXX4CZW-v4.5.0.js",
+      "_datatables.net-BwztunpE-v4.5.0.js",
       "_jquery-BDaHQXZF-v4.5.0.js",
       "_@popperjs-DMMwm23M-v4.5.0.js"
     ]
@@ -955,12 +947,12 @@
     "src": "modules/User/Resources/assets/admin/images/top-mask.png"
   },
   "modules/User/Resources/assets/admin/js/auth/main.js": {
-    "file": "assets/main-BeSmzuCP-v4.5.0.js",
+    "file": "assets/main-YWA6XRg4-v4.5.0.js",
     "name": "main",
     "src": "modules/User/Resources/assets/admin/js/auth/main.js",
     "isEntry": true,
     "imports": [
-      "_alpinejs-BVmYX9MG-v4.5.0.js"
+      "_alpinejs-BGcqaHQq-v4.5.0.js"
     ]
   },
   "modules/User/Resources/assets/admin/js/main.js": {
@@ -1125,7 +1117,7 @@
     "src": "node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2"
   },
   "resources/images/arrow-down.svg": {
-    "file": "assets/arrow-down-O6Fp16I8-v4.5.0.svg",
+    "file": "assets/arrow-down-DE30Q394-v4.5.0.svg",
     "src": "resources/images/arrow-down.svg"
   },
   "resources/images/installer-bg.png": {
@@ -1133,21 +1125,20 @@
     "src": "resources/images/installer-bg.png"
   },
   "resources/js/install/main.js": {
-    "file": "assets/main-BanO4nRB-v4.5.0.js",
+    "file": "assets/main-BGhL6vf3-v4.5.0.js",
     "name": "main",
     "src": "resources/js/install/main.js",
     "isEntry": true,
     "imports": [
       "_vue-DkJ1Kgzj-v4.5.0.js",
-      "_simplebar-vue-DfYPHKB5-v4.5.0.js",
-      "_axios-DsPaXkF5-v4.5.0.js",
+      "_simplebar-vue-DXjHBjk7-v4.5.0.js",
+      "_axios-CCb-kr4I-v4.5.0.js",
       "_simplebar-core-DYbHMHSm-v4.5.0.js",
-      "_lodash-es-BnWRvFhx-v4.5.0.js",
-      "_vue-demi-NUwgaeZN-v4.5.0.js"
+      "_lodash-es-BnWRvFhx-v4.5.0.js"
     ]
   },
   "resources/sass/install/main.scss": {
-    "file": "assets/main-ClJ7LOJo-v4.5.0.css",
+    "file": "assets/main-qSNkPGM2-v4.5.0.css",
     "src": "resources/sass/install/main.scss",
     "isEntry": true
   }
